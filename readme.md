@@ -1,7 +1,7 @@
 # Formação Power BI
 <div align="center">
 
-![Status](https://img.shields.io/badge/Status-Em andamento-%2300C851)
+![Status](https://img.shields.io/badge/Status-Concluído-%2300C851)
 </div>
 
 ## 📚 Descrição
