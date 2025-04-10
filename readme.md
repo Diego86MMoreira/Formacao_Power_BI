@@ -6,7 +6,7 @@
 
 ## 📚 Descrição
 
-No curso da [Alura](https://cursos.alura.com.br/formacao-power-bi) O que aprenderemos?
+No curso da [Alura](https://cursos.alura.com.br/formacao-power-bi). O que aprenderemos?
 Nos cursos de Power BI, conectaremos diferentes tipos de fontes de dados com Power BI, 
 aplicaremos técnicas de ETL para tratar os dados obtidos, realizaremos cálculos dinâmicos com as fórmulas DAX, 
 criaremos dashboards e relatórios harmônicos, dinâmicos e interativos, capazes de orientar decisões baseada em dados. 
